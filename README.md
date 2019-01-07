@@ -1,3 +1,3 @@
 # README
 
-Some more cool information.
+Some more important information.
