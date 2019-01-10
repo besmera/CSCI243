@@ -5,8 +5,8 @@ Some more important information.
 
 ## An important list
 
-* Item 1
-* Item 2
+* Item an important topic about
+* Item an important item
 * And finally...
 
 ## Syntax Highlighting
