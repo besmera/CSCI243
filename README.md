@@ -11,7 +11,7 @@ Some more important information.
 
 ## Syntax Highlighting
 
-Run `ls` for the listing files command on linux
+Run `ls` for the listing files command on Linux
 
 Code can look like this:
 
