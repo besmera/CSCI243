@@ -1,6 +1,6 @@
 # README
 
-Some more important information.
+Some more important information about the repository.
 
 
 ## An important list
