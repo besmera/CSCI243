@@ -5,7 +5,7 @@ Some more important information.
 
 ## An important list
 
-* Item an important topic about git
+* Item an important topic about git!
 * Item an important item
 * And finally...
 
