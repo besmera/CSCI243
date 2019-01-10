@@ -16,5 +16,5 @@ Run `ls` for the listing files command on linux
 Code can look like this:
 
 ```
-console.log("Hello CSCI101!");
+console.log("Hello CSCI243!");
 ```
